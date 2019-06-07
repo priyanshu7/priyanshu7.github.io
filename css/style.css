@@ -273,3 +273,8 @@ body {
 	height: 100%;
 	background: url(../img/loader.gif) center center no-repeat;
 }
+
+.squareItemContainer {
+	position: relative;
+	padding: 50px 15px 35px;  
+}
